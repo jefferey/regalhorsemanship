@@ -79,6 +79,10 @@ a {
   text-align: center;
 }
 
+.subsection-text.spaced {
+  margin-top: 1em;
+}
+
 @media only screen and (min-width: 62em) {
   #content {
     flex-direction: row;
