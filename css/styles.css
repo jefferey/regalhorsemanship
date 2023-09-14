@@ -58,6 +58,7 @@ a {
 
 #pricing {
   margin-bottom: var(--section-spacing);
+  text-align: center;
 }
 
 .subsection-wrapper {
@@ -75,7 +76,7 @@ a {
   font-weight: 700;
 }
 
-#contact, #pricing {
+#contact {
   text-align: center;
 }
 
